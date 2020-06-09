@@ -12,3 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Data import
 
 We are first going to import the data.
+
+## Data cleaning
+
+Next, we clean the data.
